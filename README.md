@@ -15,6 +15,27 @@ The event management system includes the following features:
 - Dashboard for user and event management.
 - Dashboard for the Admin to manage users and event venues.
 
+## Results
+The below image is the homepage of the system where users can see all the events happening as well as book an event according to the venues listed on the system. 
+
+![image](https://github.com/praneethk2401/Event-management-system/assets/69918295/b7361199-0402-4d8f-a319-6d8bd31a0ff9)
+
+This the events page, where all the events are listed. 
+
+![events page](https://github.com/praneethk2401/Event-management-system/assets/69918295/14ac387c-c530-4bdb-bf6d-baf8e0b8d4a1)
+
+Venue page
+
+![venue page ss](https://github.com/praneethk2401/Event-management-system/assets/69918295/7ee0b156-b2e6-4218-a6dc-e52b2661b7af)
+
+Booking page
+
+![booking page](https://github.com/praneethk2401/Event-management-system/assets/69918295/98f486f7-0191-4395-b39a-9f43cf328a02)
+
+Reciepts page where the user can download the reciept for teh corresponding booking done by them. 
+
+![image](https://github.com/praneethk2401/Event-management-system/assets/69918295/fbb815d7-8a37-4342-9fc1-09377eb53094)
+
 ## Technologies Used
 
 The event management system is built using the following technologies:
